@@ -3,12 +3,11 @@
 <h1><strong>StickyTasks</strong> – Post-it Style Task Manager</h1>
 
 <h2>
-  <a href="https://stickytasks-demo.vercel.app/">Live Project Link</a>
+  <a href="https://sticky-notes-nine-sandy.vercel.app/">Live Project Link</a>
 </h2>
 
 <div align="center">
-  <a href="https://stickytasks-demo.vercel.app/">
-    <img alt="Mockup" src="https://user-images.githubusercontent.com/your-image-id.png" width="600"/>
+  <a href="https://sticky-notes-nine-sandy.vercel.app/">
   </a>
 </div>
 
